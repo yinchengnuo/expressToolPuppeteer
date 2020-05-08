@@ -2,7 +2,15 @@
 
 ## [线上预览 https://yinchengnuo.com/express?num=557006432812950](https://yinchengnuo.com/express?num=557006432812950)
 
-## [线上源码 https://github.com/yinchengnuo/mockApiNode/blob/master/api.js#L12](https://github.com/yinchengnuo/mockApiNode/blob/master/api.js#L12)
+## [线上源码 https://github.com/yinchengnuo/mockApiNode/blob/master/api.js#L14](https://github.com/yinchengnuo/mockApiNode/blob/master/api.js#L14)
+
+## 调用方式
+
+|||
+|  ----  | ----  |
+| url  | https://yinchengnuo.com/express?num=557006432812950 |
+| method  | GET |
+| query  | ?num=557006432812950 |
 
 ## 安装
 
