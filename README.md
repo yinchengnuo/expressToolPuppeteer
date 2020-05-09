@@ -1,8 +1,8 @@
-# 使用 puppeteer 根据物流单号抓取物流信息的小工具
+# 使用 puppeteer 开发的根据物流单号抓取物流信息的小工具
 
 ## [线上预览 https://yinchengnuo.com/express?num=557006432812950](https://yinchengnuo.com/express?num=557006432812950)
 
-## [线上源码 https://github.com/yinchengnuo/mockApiNode/blob/master/api.js#L21](https://github.com/yinchengnuo/mockApiNode/blob/master/api.js#L21)
+## [接口源码 https://github.com/yinchengnuo/mockApiNode/blob/master/api.js#L21](https://github.com/yinchengnuo/mockApiNode/blob/master/api.js#L21)
 
 ## 调用方式
 
@@ -16,7 +16,7 @@
 
 > npm run add
 
-(linux 下需要手动安装 cnpm 并为其添加软链接)
+(linux 下需要先手动安装 cnpm 并为其添加软链接)
 
 ## 运行
 
