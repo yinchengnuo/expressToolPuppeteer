@@ -1,6 +1,8 @@
 # 使用 puppeteer 开发的根据物流单号抓取物流信息的小工具
 
-## [线上预览 https://yinchengnuo.com/express?num=557006432812950](https://yinchengnuo.com/express?num=557006432812950)
+## [线上预览 https://yinchengnuo.com/adminVueElement/tools/express-query](https://yinchengnuo.com/adminVueElement/tools/express-query)
+
+## [接口调用 https://yinchengnuo.com/express?num=557006432812950](https://yinchengnuo.com/express?num=557006432812950)
 
 ## [接口源码 https://github.com/yinchengnuo/mockApiNode/blob/master/api.js#L21](https://github.com/yinchengnuo/mockApiNode/blob/master/api.js#L21)
 
